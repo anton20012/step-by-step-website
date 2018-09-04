@@ -1,0 +1,202 @@
+
+@import url(component.css);
+@import url(media.css);
+
+a{
+	color: #000000;
+	
+
+
+}
+
+.text-an{
+	margin-left: 200px;
+}
+.text-an1{
+	margin-left: 300px;
+	padding-top: 20px;
+}
+
+
+.triangle-up-1{
+padding-top: 70px;
+    margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+}
+
+.triangle-up-2{
+	padding-top: 70px;
+    margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+}
+.form-survey-2{
+	padding-top: 20px;
+}
+
+.backward{
+	padding-right: 20px;
+}
+
+.form-survey-3{
+padding-top: 20px;	
+}
+
+.triangle-up-3{
+	padding-top: 70px;
+    margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+}
+
+.form-aut{
+	margin-left: 20px;
+}
+
+.form-survey-4{
+padding-top: 20px;		
+}
+
+.triangle-up-4{
+	padding-top: 70px;
+    margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+}
+
+
+.form-survey-5{
+	padding-top: 20px;
+}
+.triangle-up-5{
+	padding-top: 70px;
+    margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+}
+
+.form-survey-6{
+	padding-top: 20px;
+
+}
+
+
+.triangle-up-6{
+	padding-top: 70px;
+    margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+}
+
+
+.form-survey-7{
+	padding-top: 20px;
+}
+
+.triangle-up-7{
+	padding-top: 70px;
+    margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+}
+
+
+   
+------------------прелоудер--------------------------
+.form-survey-9{
+	padding-top: 20px;
+}
+
+
+.triangle-up-9{
+margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);	
+}
+
+
+
+
+
+
+
+
+
+-------------------прелоудер------------------------------
+
+.form-survey-10{
+	padding-top: 20px;
+}
+
+.triangle-up-10{
+	margin-left: 70px;
+    width: 600px;
+    height: 400px;
+    background: rgba(45, 99, 208);
+    border-radius: 5px;
+    -moz-border-radius: 5
+ -webkit-border-radius:5px;
+    box-shadow: 0 3px 20px rgba(45, 99, 208);
+
+}
+
+
+.send-up{
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+.form-control{
+width: 120px;
+}
+
+.form-section{
+	padding-top: 20px;
+	padding-left: 200px;
+}
+
+.form-control-1{
+	margin-top: 20px;
+	margin-left: 230px;
+}
